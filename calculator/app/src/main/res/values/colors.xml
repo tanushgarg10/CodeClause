@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textViewColorBackground">#D8D8D8</color>
+    <color name="appBackgroundColor">#060606</color>
+    <color name="buttonBackgroundColor">#969696</color>
+    <color name="buttonTextColor">#EBE7E7</color>
+</resources>
